@@ -1,5 +1,10 @@
 {
-    "name": "intervention/imagecache",
+    "name": "haedev/imagecache",
+    "exportName": "haedev/imagecache",
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/haedev/imagecache.git"
+    }
     "description": "Caching extension for the Intervention Image Class",
     "homepage": "https://image.intervention.io",
     "keywords": [
